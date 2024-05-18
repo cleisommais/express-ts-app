@@ -2,9 +2,9 @@
    "name": "express-ts-app",
    "version": "1.0.0",
    "description": "express-ts-app",
-   "main": "index.js",
+   "main": "src/app.js",
    "scripts": {
-      "start": "ts-node src/index.ts",
+      "start": "ts-node src/app.ts",
       "typeorm": "typeorm-ts-node-commonjs"
    },
    "keywords": [],
